@@ -17,7 +17,7 @@ This is a Streamlit-based web application that uses the Hungarian Algorithm to s
 ## Installation
 - Clone the Repository
 ```
-    git clone https://github.com/your-username/streamlit-assignment-app.git
+    git clone https://github.com/subhasishsaha/assignment-application.git
     cd streamlit-assignment-app
  ```
 - Install Dependencies
